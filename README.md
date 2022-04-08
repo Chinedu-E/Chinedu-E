@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Chinedu Ekeruche
+- 👀 I’m interested in Data science and Machine learning
+- 🌱 I’m currently learning Deep learning
+- 📫 How to reach me cekeruche@icloud.com
