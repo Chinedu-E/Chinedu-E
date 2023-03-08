@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Chinedu Ekeruche
-- 👀 I’m interested in Data science and Machine learning
-- 🌱 I’m currently learning Deep learning
-- 📫 How to reach me cekeruche@icloud.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinedu-E&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinedu-E&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
